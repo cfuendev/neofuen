@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/cfuen/.local/share/nvim/site/pack/packer/start'
+let g:netrw_dirhist_5='/home/cfuen/.local/share/nvim/site/pack/packer/start/packer.nvim'
+let g:netrw_dirhist_4='/home/cfuen/.local/share/nvim/site/pack/packer/start'
+let g:netrw_dirhist_3='/home/cfuen/.local/share/nvim/site/pack/packer/start/packer.nvim'
+let g:netrw_dirhist_2='/home/cfuen/.local/share/nvim/site/pack/packer/start/packer.nvim/lua'
+let g:netrw_dirhist_1='/home/cfuen/.local/share/nvim/site/pack/packer/start/packer.nvim'
+let g:netrw_dirhist_0='/home/cfuen/.local/share/nvim/site/pack/packer/start/packer.nvim/lua'
+let g:netrw_dirhist_9='/home/cfuen/.local/share/nvim/site/pack/packer/start/packer.nvim'
+let g:netrw_dirhist_8='/home/cfuen/.local/share/nvim/site/pack/packer/start/packer.nvim/lua'
+let g:netrw_dirhist_7='/home/cfuen/.local/share/nvim/site/pack/packer/start/packer.nvim'

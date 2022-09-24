@@ -10,11 +10,6 @@ return require('packer').startup(function()
 	 use 'vim-airline/vim-airline'
 	 use 'vim-airline/vim-airline-themes'
 	 use "rebelot/kanagawa.nvim"
+	 use 'lukas-reineke/indent-blankline.nvim'
 	 use {'neoclide/coc.nvim', branch = 'release'}
-	 use 'lervag/vimtex'
-	 use({ "iamcco/markdown-preview.nvim",
-	 	run = "cd app && npm install",
-		setup = function() vim.g.mkdp_filetypes = { "markdown" } end,
-		ft = { "markdown" },
-	 })
  end)
